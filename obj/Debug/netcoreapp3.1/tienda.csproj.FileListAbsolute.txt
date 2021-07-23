@@ -1,0 +1,88 @@
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.exe
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.deps.json
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.runtimeconfig.json
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.runtimeconfig.dev.json
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.dll
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.pdb
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.Views.dll
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\bin\Debug\netcoreapp3.1\tienda.Views.pdb
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.csprojAssemblyReference.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.AssemblyInfoInputs.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.AssemblyInfo.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.csproj.CoreCompileInputs.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.RazorAssemblyInfo.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.RazorAssemblyInfo.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.TagHelpers.input.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.TagHelpers.output.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.RazorCoreGenerate.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Home\IPHONE11.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Home\IPHONE12.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.RazorTargetAssemblyInfo.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.RazorTargetAssemblyInfo.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.Views.pdb
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\staticwebassets\tienda.StaticWebAssets.Manifest.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\staticwebassets\tienda.StaticWebAssets.xml
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.dll
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.pdb
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.genruntimeconfig.cache
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\tienda.csproj.CopyComplete
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Home\SINRESULTADO.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Home\COMPRAR11.cshtml.g.cs
+C:\Users\04ili\OneDrive\Escritorio\proyects\tienda\obj\Debug\netcoreapp3.1\Razor\Views\Home\IPHONE10.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.exe
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.deps.json
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.runtimeconfig.json
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.runtimeconfig.dev.json
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.dll
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.pdb
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.Views.dll
+C:\Users\TEBAS\Desktop\tienda 1\bin\Debug\netcoreapp3.1\tienda.Views.pdb
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.csproj.AssemblyReference.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.AssemblyInfoInputs.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.AssemblyInfo.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.csproj.CoreCompileInputs.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.RazorAssemblyInfo.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.RazorAssemblyInfo.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\staticwebassets\tienda.StaticWebAssets.Manifest.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\staticwebassets\tienda.StaticWebAssets.xml
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\scopedcss\bundle\tienda.styles.css
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.TagHelpers.input.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.TagHelpers.output.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.RazorCoreGenerate.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\COMPRAR11.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\IPHONE10.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\IPHONE11.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\IPHONE12.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\SINRESULTADO.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.RazorTargetAssemblyInfo.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.RazorTargetAssemblyInfo.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.Views.pdb
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.dll
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.pdb
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.genruntimeconfig.cache
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\tienda.csproj.CopyComplete
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AGREGAR.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CORREO.CSHTML.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ELIMINAR.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\HOLA.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\BORRARNUEVO.cshtml.g.cs
+C:\Users\TEBAS\Desktop\tienda 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\INICIOVECT.cshtml.g.cs

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+     
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - tienda </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    
+    
+</head>
+<body   >
+    <header>
+        
+          
+
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-ligth border-bottom box-shadow mb-3" style="background-color:#46464A "
+
+ >
+            
+
+
+            <img src="https://i.pinimg.com/originals/99/b0/e5/99b0e593f9237abf16df5cb1b1a87735.png" height="100px" width="100px">
+            <a class="nav-link text-white " href="https://localhost:5001/HOME/AGREGAR">AGREGAR PRODUCTO</a>
+            <a class="nav-link text-white " href="https://localhost:5001/HOME/ELIMINAR">ELIMINAR</a>
+            <a class="nav-link text-white " href="https://localhost:5001/">INICIO</a>
+            </span>
+            
+
+    
+
+<form action="/home/buscar" method="POST" >
+   <label></label>
+    <input type="text"placeholder = "buscar productos" name="busqueda">
+    <button type="submit">Buscar</button>
+</form>
+
+<!--<input name="q" id="input-mobile-search" type="search" placeholder="Busca productos" value="" autocomplete="off" class="form-control input-search" maxlength="512">
+<button class="btn btn-primary btn-search" type="submit">Enviar</</button> tabindex="-1"><span aria-hidden="true" class="icon icon-inverse"></span></button>-->
+<!--<span class="border-bottom-0" ></span>-->
+<img src="https://www.clipartmax.com/png/full/269-2697089_pickup-delivery-camion-de-envios-blanco-png.png" height="50px" width="50px" > 
+<a class="nav-link text-white" href="https://localhost:5001/HOME/HOLA">AGREGAR NUEVO</a>
+<img src="https://img.icons8.com/cotton/452/recieve.png" height="50px" width="50px">
+<a class="nav-link text-white" href="https://localhost:5001/HOME/BORRARNUEVO">BORRAR NUEVO</a>
+<img src="https://img.icons8.com/cotton/2x/login-rounded-right--v2.png" height="50px" width="50px">
+<a class="nav-link text-white" href="https://localhost:5001/home/INICIOVECT">INICIO VECTORES</a>
+
+
+
+
+</div>
+
+            <div class="container">
+               
+                
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    <img src="https://i.pinimg.com/474x/0a/ee/c0/0aeec09d1473ab5a3f78a0a90ce6c749.jpg" height="50px" width="50px">
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                       
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+
+
+
+
+ <footer 
+ class="border-top footer text-muted" >       
+    </div>
+<div class="bottom-footer"  >
+<div class="container" style="background-color: #FAE301" >
+<div class="row" >
+<div class="col-md-12" >
+<ul class="nav" >
+	<li><a>Todos los derechos reservados a estructuras shop phones</a></li>
+	<li><a href="/es/terminos-y-condiciones">Términos y condiciones</a></li>
+	<li><a href="/es/politica-tratamiento-informacion">Políticas de tratamiento de la información</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+   
+        
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+
+</body>
+</html>

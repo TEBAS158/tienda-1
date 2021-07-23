@@ -1,0 +1,45 @@
+@{
+    
+    ViewData["Title"] = "HOLA";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+
+<h1 class="bd-title" id="content">AGREGAR CON ARREGLOS</h1>
+
+
+<form action="/home/NUEVO" method="POST" >
+  
+    
+    <div class="form-group">
+      <label for="Select" >SELECCIONE EL NOMBRE DEL PRODUCTOA A AGREGAR</label>
+      <select id="marca" name="marca" class="form-control">
+        <option>SAMSUNG S13</option>
+        <option>XIAOMI REDMI NOTE 9S</option>
+        <option>IPHONE 5 XS</option>
+      </select>
+    </div>
+    
+    <div class="form-group">
+      <label for="TextInput">INTRODUZCA URL DE UNA IMAGEN DEL PRODUCTO</label>
+      <input type="text" id="url"  name="url" class="form-control" placeholder="URL">
+     
+        
+    </div>
+
+    <div class="form-group">
+      <label for="TextInput">PRECIO EJ 500.000</label>
+      <input type="text" id="precio"  name="precio" class="form-control" placeholder="PRECIO">
+    </div>
+
+
+   
+      </label>
+    
+    <button type="submit" class="btn btn-primary" >AGREGAR</button>
+  </fieldset>
+</form>
+
+
+
